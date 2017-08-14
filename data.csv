@@ -1,4 +1,9 @@
-Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Name;Adresse;Stadt;Latitude;Longitude
+Friedrich-Wagner-Buchhandlung;Ueckerstr. 79;17373 Ueckermnde;53736734;14045711
+B”ttger;Maximilianstr. 44;53111 Bonn;50734910;7095300
+Nimmerland Kinderbuchhandlung;Breite Straáe 63;55124 Mainz;50003879;8213611
+Buchhandlung Mahr;Lange Straáe 8;89129 Langenau;48500234;10122092
+Bindernagel;Wetzlarer Straáe 25;35510 Butzbach;50435334;8670605
+Buchhandlung Klaus Bittner GmbH;Albertusstraáe 6;50667 K”ln;50939117;6944922
+Connewitzer Verlagsbuchhandlung Leipzig;Schuhmacherg„áchen 4 / Specks Hof;04109 Leipzig;51340515;12377488
+maKULaTUR;Hxstraáe 87;23552 Lbeck;53865455;10690830
